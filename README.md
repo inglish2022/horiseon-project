@@ -20,7 +20,7 @@ Readme todo's
 ## To Do
 
 1. Fixed broken link X
-2. Add Alt altributes to image tags
+2. Add Alt altributes to image tags X
 3. Implement semantic html
     ex/ Header, Nav, Footer, Main, Section, Article, Aside, Figure
 4. Consolidate CSS

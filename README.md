@@ -22,7 +22,7 @@ Readme todo's
 1. Fixed broken link X
 2. Add Alt altributes to image tags X
 3. Implement semantic html
-    ex/ Header, Nav, Footer, Main, Section, Article, Aside, Figure
+    ex/ Header, Nav, Footer, Main, Section, Article, Aside, Figure X
 4. Consolidate CSS
 5. Reorder CSS to flow with html
 6. Check header tags to make sure in order X

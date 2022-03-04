@@ -1,30 +1,23 @@
 # Refactor
 
-ENTER DESCRIPTION HERE
+HORISEON PROJECT
 
 ## Link
 
-[Deployed Link](github.com/username/appname)
+[github.com/inglish2022/horiseon-project](github.com/inglish2022/horiseon-project)
 
 ## Screenshot
 
-![Screenshot](./assets/images/search-engine-optimization.jpg)
+![Screenshot](![Screenshot (5)](https://user-images.githubusercontent.com/99756614/156835988-27c5c93f-7c3a-4bfa-b2f1-a6cbedb8493f.png))
 
+##  Authors
 
-Readme todo's
-1. description of your app
-2. Link to you reployes app (github pages link)
-3. Screenshot of the deployed app
+Inglish Foust
 
+##  Version Release
 
-## To Do
+0.2 
+    Various bug fixes
 
-1. Fixed broken link X
-2. Add Alt altributes to image tags X
-3. Implement semantic html
-    ex/ Header, Nav, Footer, Main, Section, Article, Aside, Figure X
-4. Consolidate CSS
-5. Reorder CSS to flow with html X
-6. Check header tags to make sure in order X
-7. Add Title element X
-8. Comment CSS code
+0.1
+    Initial Release

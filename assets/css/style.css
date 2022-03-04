@@ -17,7 +17,7 @@ p {
     font-size: 16px;
 }
 
-
+/* header */
 
 header {
     padding: 20px;
@@ -51,6 +51,8 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* main body of website */
 
 .hero {
     height: 800px;
@@ -97,6 +99,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/* sidebar beneifits */
 
 .benefits {
     margin-right: 20px;

@@ -24,7 +24,7 @@ Readme todo's
 3. Implement semantic html
     ex/ Header, Nav, Footer, Main, Section, Article, Aside, Figure X
 4. Consolidate CSS
-5. Reorder CSS to flow with html
+5. Reorder CSS to flow with html X
 6. Check header tags to make sure in order X
 7. Add Title element X
 8. Comment CSS code
